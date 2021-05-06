@@ -7,3 +7,4 @@ R Programs:
 * 2_gen_int.R
 * 3_gen_int_factors.R
 
+Clarification regarding HML^LS and HML^ULS is needed.
